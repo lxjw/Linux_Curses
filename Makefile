@@ -5,7 +5,7 @@
 
 
 CXX = g++
-CXXFLAGS = -I ~/scratch/perkins/include 
+CXXFLAGS = -I /scratch/perkins/include 
 CPPFLAGS = -Wall
 LDFLAGS = -L /scratch/perkins/lib
 LDLIBS = -l cdk -lcurses
