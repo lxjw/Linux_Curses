@@ -4,6 +4,7 @@
  * File:   prog6.cc
  * Author: Stephen Perkins, editted for HW6 by Lucian Jiang-Wei
  * Email:  lxj160030@utdallas.edu
+ * CS 3377.502
  */
 
 #include <iostream>
