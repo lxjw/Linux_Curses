@@ -1,1 +1,3 @@
-# lxj160030_CS3377_HW6
+# Linux Curses
+
+Small exmaple program showing the implementation of the linux curses library
